@@ -1,0 +1,10 @@
+Feb 03, 2023 10:47:12 AM HW2.BubbleSorting sortAndLog
+INFO: Элемент 7 перемещен на позицию 1
+Feb 03, 2023 10:47:12 AM HW2.BubbleSorting sortAndLog
+INFO: Элемент 5 перемещен на позицию 2
+Feb 03, 2023 10:47:12 AM HW2.BubbleSorting sortAndLog
+INFO: Элемент 7 перемещен на позицию 2
+Feb 03, 2023 10:47:12 AM HW2.BubbleSorting sortAndLog
+INFO: Элемент 5 перемещен на позицию 3
+Feb 03, 2023 10:47:12 AM HW2.BubbleSorting sortAndLog
+INFO: Элемент 7 перемещен на позицию 3
